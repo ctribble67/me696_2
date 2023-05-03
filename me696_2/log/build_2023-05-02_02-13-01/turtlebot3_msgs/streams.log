@@ -1,0 +1,21 @@
+[0.009s] Invoking command in '/home/tribble/me696_2/build/turtlebot3_msgs': /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs
+[0.026s] -- Configuring incomplete, errors occurred!
+[0.026s] See also "/home/tribble/me696_2/build/turtlebot3_msgs/CMakeFiles/CMakeOutput.log".
+[0.030s] CMake Error at CMakeLists.txt:18 (find_package):
+[0.030s]   By not providing "Findaction_msgs.cmake" in CMAKE_MODULE_PATH this project
+[0.030s]   has asked CMake to find a package configuration file provided by
+[0.030s]   "action_msgs", but CMake did not find one.
+[0.030s] 
+[0.030s]   Could not find a package configuration file provided by "action_msgs" with
+[0.030s]   any of the following names:
+[0.030s] 
+[0.030s]     action_msgsConfig.cmake
+[0.030s]     action_msgs-config.cmake
+[0.030s] 
+[0.031s]   Add the installation prefix of "action_msgs" to CMAKE_PREFIX_PATH or set
+[0.031s]   "action_msgs_DIR" to a directory containing one of the above files.  If
+[0.031s]   "action_msgs" provides a separate development package or SDK, be sure it
+[0.031s]   has been installed.
+[0.031s] 
+[0.031s] 
+[0.033s] Invoked command in '/home/tribble/me696_2/build/turtlebot3_msgs' returned '1': /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs

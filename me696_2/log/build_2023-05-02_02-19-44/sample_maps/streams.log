@@ -1,0 +1,20 @@
+[0.635s] Invoking command in '/home/tribble/me696_2/src/me696_hh2_ws/sample_maps': PYTHONPATH=/home/tribble/me696_2/build/sample_maps/prefix_override:/home/tribble/me696_2/install/sample_maps/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sample_maps build --build-base /home/tribble/me696_2/build/sample_maps/build install --record /home/tribble/me696_2/build/sample_maps/install.log --install-scripts $base/lib/sample_maps --single-version-externally-managed
+[0.841s] running egg_info
+[0.843s] writing ../../../build/sample_maps/sample_maps.egg-info/PKG-INFO
+[0.844s] writing dependency_links to ../../../build/sample_maps/sample_maps.egg-info/dependency_links.txt
+[0.844s] writing entry points to ../../../build/sample_maps/sample_maps.egg-info/entry_points.txt
+[0.845s] writing requirements to ../../../build/sample_maps/sample_maps.egg-info/requires.txt
+[0.845s] writing top-level names to ../../../build/sample_maps/sample_maps.egg-info/top_level.txt
+[0.875s] reading manifest file '../../../build/sample_maps/sample_maps.egg-info/SOURCES.txt'
+[0.876s] writing manifest file '../../../build/sample_maps/sample_maps.egg-info/SOURCES.txt'
+[0.876s] running build
+[0.876s] running build_py
+[0.877s] running install
+[0.877s] running install_lib
+[0.879s] running install_data
+[0.879s] running install_egg_info
+[0.882s] removing '/home/tribble/me696_2/install/sample_maps/lib/python3.8/site-packages/sample_maps-0.0.0-py3.8.egg-info' (and everything under it)
+[0.882s] Copying ../../../build/sample_maps/sample_maps.egg-info to /home/tribble/me696_2/install/sample_maps/lib/python3.8/site-packages/sample_maps-0.0.0-py3.8.egg-info
+[0.882s] running install_scripts
+[0.900s] writing list of installed files to '/home/tribble/me696_2/build/sample_maps/install.log'
+[0.925s] Invoked command in '/home/tribble/me696_2/src/me696_hh2_ws/sample_maps' returned '0': PYTHONPATH=/home/tribble/me696_2/build/sample_maps/prefix_override:/home/tribble/me696_2/install/sample_maps/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/sample_maps build --build-base /home/tribble/me696_2/build/sample_maps/build install --record /home/tribble/me696_2/build/sample_maps/install.log --install-scripts $base/lib/sample_maps --single-version-externally-managed

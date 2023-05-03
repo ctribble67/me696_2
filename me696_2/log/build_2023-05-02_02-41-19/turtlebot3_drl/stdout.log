@@ -1,0 +1,22 @@
+running egg_info
+writing ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/dependency_links.txt
+writing entry points to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/entry_points.txt
+writing requirements to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/requires.txt
+writing top-level names to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/top_level.txt
+reading manifest file '../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+byte-compiling /home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages/turtlebot3_drl/common/utilities.py to utilities.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages/turtlebot3_drl-2.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info to /home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages/turtlebot3_drl-2.0.0-py3.8.egg-info
+running install_scripts
+Installing drl_agent script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+Installing drl_environment script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+Installing drl_gazebo script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+writing list of installed files to '/home/tribble/me696_2/build/turtlebot3_drl/install.log'

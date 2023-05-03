@@ -1,0 +1,6 @@
+Invoking command in '/home/tribble/me696_2/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_gazebo
+Invoked command in '/home/tribble/me696_2/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_gazebo
+Invoking command in '/home/tribble/me696_2/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tribble/me696_2/build/turtlebot3_gazebo -- -j2 -l2
+Invoked command in '/home/tribble/me696_2/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tribble/me696_2/build/turtlebot3_gazebo -- -j2 -l2
+Invoking command in '/home/tribble/me696_2/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tribble/me696_2/build/turtlebot3_gazebo
+Invoked command in '/home/tribble/me696_2/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tribble/me696_2/build/turtlebot3_gazebo

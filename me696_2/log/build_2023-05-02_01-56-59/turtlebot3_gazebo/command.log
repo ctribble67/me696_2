@@ -1,0 +1,1 @@
+Invoking command in '/home/tribble/me696_2/build/turtlebot3_gazebo': /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_gazebo

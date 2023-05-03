@@ -1,0 +1,49 @@
+running egg_info
+creating ../../../build/holmes_nav/holmes_nav.egg-info
+writing ../../../build/holmes_nav/holmes_nav.egg-info/PKG-INFO
+writing dependency_links to ../../../build/holmes_nav/holmes_nav.egg-info/dependency_links.txt
+writing entry points to ../../../build/holmes_nav/holmes_nav.egg-info/entry_points.txt
+writing requirements to ../../../build/holmes_nav/holmes_nav.egg-info/requires.txt
+writing top-level names to ../../../build/holmes_nav/holmes_nav.egg-info/top_level.txt
+writing manifest file '../../../build/holmes_nav/holmes_nav.egg-info/SOURCES.txt'
+reading manifest file '../../../build/holmes_nav/holmes_nav.egg-info/SOURCES.txt'
+writing manifest file '../../../build/holmes_nav/holmes_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tribble/me696_2/build/holmes_nav/build
+creating /home/tribble/me696_2/build/holmes_nav/build/lib
+creating /home/tribble/me696_2/build/holmes_nav/build/lib/holmes_nav
+copying holmes_nav/__init__.py -> /home/tribble/me696_2/build/holmes_nav/build/lib/holmes_nav
+copying holmes_nav/hh2_node.py -> /home/tribble/me696_2/build/holmes_nav/build/lib/holmes_nav
+running install
+running install_lib
+creating /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav
+copying /home/tribble/me696_2/build/holmes_nav/build/lib/holmes_nav/__init__.py -> /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav
+copying /home/tribble/me696_2/build/holmes_nav/build/lib/holmes_nav/hh2_node.py -> /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav
+byte-compiling /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav/hh2_node.py to hh2_node.cpython-38.pyc
+running install_data
+creating /home/tribble/me696_2/install/holmes_nav/share/ament_index
+creating /home/tribble/me696_2/install/holmes_nav/share/ament_index/resource_index
+creating /home/tribble/me696_2/install/holmes_nav/share/ament_index/resource_index/packages
+copying resource/holmes_nav -> /home/tribble/me696_2/install/holmes_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/launch
+copying launch/holmes_hall.launch.py -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/launch
+copying launch/update_slam.xml -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/launch
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2
+copying models/hh2/model.config -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2
+copying models/hh2/model.sdf -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2/meshes
+copying models/hh2/meshes/hh2.stl -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2/meshes
+copying models/hh2/meshes/hh2_v2.stl -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2/meshes
+copying models/hh2/meshes/hh2_scaledown.stl -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/models/hh2/meshes
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/worlds
+creating /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/worlds/hh2
+copying worlds/hh2/waffle.model -> /home/tribble/me696_2/install/holmes_nav/share/holmes_nav/worlds/hh2
+running install_egg_info
+Copying ../../../build/holmes_nav/holmes_nav.egg-info to /home/tribble/me696_2/install/holmes_nav/lib/python3.8/site-packages/holmes_nav-0.0.0-py3.8.egg-info
+running install_scripts
+Installing hh2_node script to /home/tribble/me696_2/install/holmes_nav/lib/holmes_nav
+writing list of installed files to '/home/tribble/me696_2/build/holmes_nav/install.log'

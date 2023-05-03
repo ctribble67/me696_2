@@ -1,0 +1,23 @@
+[0.490s] Invoking command in '/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_drl': AMENT_PREFIX_PATH=/home/tribble/me696_2/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tribble/me696_2/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/tribble/me696_2/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tribble/me696_2/build/turtlebot3_drl/prefix_override:/home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages:/home/tribble/me696_2/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/turtlebot3_drl build --build-base /home/tribble/me696_2/build/turtlebot3_drl/build install --record /home/tribble/me696_2/build/turtlebot3_drl/install.log --single-version-externally-managed
+[0.671s] running egg_info
+[0.671s] writing ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/PKG-INFO
+[0.671s] writing dependency_links to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/dependency_links.txt
+[0.672s] writing entry points to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/entry_points.txt
+[0.672s] writing requirements to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/requires.txt
+[0.673s] writing top-level names to ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/top_level.txt
+[0.700s] reading manifest file '../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/SOURCES.txt'
+[0.701s] writing manifest file '../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info/SOURCES.txt'
+[0.702s] running build
+[0.702s] running build_py
+[0.702s] running install
+[0.704s] running install_lib
+[0.706s] running install_data
+[0.706s] running install_egg_info
+[0.708s] removing '/home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages/turtlebot3_drl-2.0.0-py3.8.egg-info' (and everything under it)
+[0.708s] Copying ../../../../build/turtlebot3_drl/turtlebot3_drl.egg-info to /home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages/turtlebot3_drl-2.0.0-py3.8.egg-info
+[0.708s] running install_scripts
+[0.719s] Installing drl_agent script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+[0.719s] Installing drl_environment script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+[0.720s] Installing drl_gazebo script to /home/tribble/me696_2/install/turtlebot3_drl/lib/turtlebot3_drl
+[0.720s] writing list of installed files to '/home/tribble/me696_2/build/turtlebot3_drl/install.log'
+[0.733s] Invoked command in '/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_drl' returned '0': AMENT_PREFIX_PATH=/home/tribble/me696_2/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/tribble/me696_2/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/tribble/me696_2/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/tribble/me696_2/build/turtlebot3_drl/prefix_override:/home/tribble/me696_2/install/turtlebot3_drl/lib/python3.8/site-packages:/home/tribble/me696_2/install/turtlebot3_msgs/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/turtlebot3_drl build --build-base /home/tribble/me696_2/build/turtlebot3_drl/build install --record /home/tribble/me696_2/build/turtlebot3_drl/install.log --single-version-externally-managed

@@ -1,0 +1,5 @@
+CMake Error at CMakeLists.txt:55:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs/CMakeLists.txtament_package".
+
+

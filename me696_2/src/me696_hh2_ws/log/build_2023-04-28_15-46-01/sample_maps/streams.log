@@ -1,0 +1,39 @@
+[0.508s] Invoking command in '/home/tribble/me696/ros2_ws/src/me696_hh2_ws/sample_maps': PYTHONPATH=/home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/prefix_override:/home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/sample_maps build --build-base /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build install --record /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/install.log --install-scripts $base/lib/sample_maps --single-version-externally-managed
+[0.616s] running egg_info
+[0.616s] creating ../build/sample_maps/sample_maps.egg-info
+[0.617s] writing ../build/sample_maps/sample_maps.egg-info/PKG-INFO
+[0.617s] writing dependency_links to ../build/sample_maps/sample_maps.egg-info/dependency_links.txt
+[0.617s] writing entry points to ../build/sample_maps/sample_maps.egg-info/entry_points.txt
+[0.617s] writing requirements to ../build/sample_maps/sample_maps.egg-info/requires.txt
+[0.617s] writing top-level names to ../build/sample_maps/sample_maps.egg-info/top_level.txt
+[0.618s] writing manifest file '../build/sample_maps/sample_maps.egg-info/SOURCES.txt'
+[0.636s] reading manifest file '../build/sample_maps/sample_maps.egg-info/SOURCES.txt'
+[0.637s] writing manifest file '../build/sample_maps/sample_maps.egg-info/SOURCES.txt'
+[0.637s] running build
+[0.637s] running build_py
+[0.637s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build
+[0.637s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build/lib
+[0.637s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build/lib/sample_maps
+[0.637s] copying sample_maps/__init__.py -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build/lib/sample_maps
+[0.637s] running install
+[0.637s] running install_lib
+[0.638s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages/sample_maps
+[0.638s] copying /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build/lib/sample_maps/__init__.py -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages/sample_maps
+[0.638s] byte-compiling /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages/sample_maps/__init__.py to __init__.cpython-38.pyc
+[0.639s] running install_data
+[0.639s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/ament_index
+[0.639s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/ament_index/resource_index
+[0.639s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/ament_index/resource_index/packages
+[0.639s] copying resource/sample_maps -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/ament_index/resource_index/packages
+[0.639s] copying package.xml -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps
+[0.639s] creating /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.639s] copying sample_maps/map_distort.pgm -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.640s] copying sample_maps/map_clean.pgm -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.640s] copying sample_maps/map_clean.yaml -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.640s] copying sample_maps/map_distort.yaml -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.640s] copying sample_maps/params_config.yaml -> /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/share/sample_maps/sample_maps
+[0.640s] running install_egg_info
+[0.641s] Copying ../build/sample_maps/sample_maps.egg-info to /home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages/sample_maps-0.0.0-py3.8.egg-info
+[0.641s] running install_scripts
+[0.651s] writing list of installed files to '/home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/install.log'
+[0.675s] Invoked command in '/home/tribble/me696/ros2_ws/src/me696_hh2_ws/sample_maps' returned '0': PYTHONPATH=/home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/prefix_override:/home/tribble/me696/ros2_ws/src/me696_hh2_ws/install/sample_maps/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/sample_maps build --build-base /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/build install --record /home/tribble/me696/ros2_ws/src/me696_hh2_ws/build/sample_maps/install.log --install-scripts $base/lib/sample_maps --single-version-externally-managed

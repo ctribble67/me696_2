@@ -1,0 +1,2 @@
+Invoking command in '/home/tribble/me696_2/build/turtlebot3_msgs': /usr/bin/cmake /home/tribble/me696_2/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs
+Invoked command in '/home/tribble/me696_2/build/turtlebot3_msgs' returned '1': /usr/bin/cmake /home/tribble/me696_2/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs

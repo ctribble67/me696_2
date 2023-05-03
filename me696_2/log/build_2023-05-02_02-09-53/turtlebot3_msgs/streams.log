@@ -1,0 +1,8 @@
+[0.012s] Invoking command in '/home/tribble/me696_2/build/turtlebot3_msgs': /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs
+[0.021s] CMake Error at CMakeLists.txt:55:
+[0.021s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.021s]   "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs/CMakeLists.txt;".
+[0.021s] 
+[0.021s] 
+[0.021s] -- Configuring incomplete, errors occurred!
+[0.028s] Invoked command in '/home/tribble/me696_2/build/turtlebot3_msgs' returned '1': /usr/bin/cmake /home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/tribble/me696_2/install/turtlebot3_msgs

@@ -1,0 +1,13 @@
+{
+  "package_name": "turtlebot3_msgs",
+  "non_idl_tuples": [
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:msg/SensorState.msg",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:msg/Sound.msg",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:msg/VersionInfo.msg",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:srv/Sound.srv",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:srv/DrlStep.srv",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:srv/Goal.srv",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:srv/RingGoal.srv",
+    "/home/tribble/me696_2/src/turtlebot3_drlnav/src/turtlebot3_msgs:action/Patrol.action"
+  ]
+}
